@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 200px;
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 500;
+}
+
+.container h1{
+    background-color: black;
+    color:#fff;
+}
+.container h2{
+    background-color: black;
+    color:#fff;
+}
